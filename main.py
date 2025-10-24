@@ -23,7 +23,6 @@ from about import aboutprogram
 # for rendering correctly on high-resolution displays.
 # It MUST be called before any Tkinter windows are created.
 # TODO: Add function to count lines in settings.txt
-# add normal comment
 try:
     if sys.platform == "win32":
         # Set the process DPI awareness for Windows.
