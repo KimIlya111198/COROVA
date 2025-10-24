@@ -22,6 +22,7 @@ from about import aboutprogram
 # This block makes the application DPI-aware on Windows, which is essential
 # for rendering correctly on high-resolution displays.
 # It MUST be called before any Tkinter windows are created.
+# TODO: Add function to count lines in settings.txt
 try:
     if sys.platform == "win32":
         # Set the process DPI awareness for Windows.
