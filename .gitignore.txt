@@ -8,4 +8,5 @@ __pycache__/
 *.log
 
 # Можно игнорировать конкретный файл с данными
-# big_dataset.csv   
+# big_dataset.csv  
+#buy 
